@@ -53,18 +53,13 @@
     border: 1px solid rgba(255, 255, 255, 0.1);
   }
 img{
-    /* position: relative; */
     height: 150px;
     width: 150px;
     border-radius: 50%;
     background-color: #9c27b0;
     padding: 2px;
   }
-  /* 
-  .image .profile-img{
-    height: 100%;
-    width: 100%;
-  } */
+
 .card .image{
     margin: 10px;
     display: flex;
